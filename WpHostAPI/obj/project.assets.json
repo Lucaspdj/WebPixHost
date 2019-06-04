@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WpHostAPI\\WpHostAPI.csproj",
+      "projectUniqueName": "C:\\webpix\\WebPixHost\\WpHostAPI\\WpHostAPI.csproj",
       "projectName": "WpHostAPI",
-      "projectPath": "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WpHostAPI\\WpHostAPI.csproj",
+      "projectPath": "C:\\webpix\\WebPixHost\\WpHostAPI\\WpHostAPI.csproj",
       "packagesPath": "C:\\Users\\Matheus Ferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WpHostAPI\\obj\\",
+      "outputPath": "C:\\webpix\\WebPixHost\\WpHostAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

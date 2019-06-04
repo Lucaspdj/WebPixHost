@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WebPixHostContanier\\WebPixHostContanier.csproj",
+      "projectUniqueName": "C:\\webpix\\WebPixHost\\WebPixHostContanier\\WebPixHostContanier.csproj",
       "projectName": "WebPixHostContanier",
-      "projectPath": "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WebPixHostContanier\\WebPixHostContanier.csproj",
+      "projectPath": "C:\\webpix\\WebPixHost\\WebPixHostContanier\\WebPixHostContanier.csproj",
       "packagesPath": "C:\\Users\\Matheus Ferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WebPixHostContanier\\obj\\",
+      "outputPath": "C:\\webpix\\WebPixHost\\WebPixHostContanier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -726,8 +726,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WpHostEntidade\\WpHostEntidade.csproj": {
-              "projectPath": "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WpHostEntidade\\WpHostEntidade.csproj"
+            "C:\\webpix\\WebPixHost\\WpHostEntidade\\WpHostEntidade.csproj": {
+              "projectPath": "C:\\webpix\\WebPixHost\\WpHostEntidade\\WpHostEntidade.csproj"
             }
           }
         }

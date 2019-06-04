@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WpHostEntidade\\WpHostEntidade.csproj",
+      "projectUniqueName": "C:\\webpix\\WebPixHost\\WpHostEntidade\\WpHostEntidade.csproj",
       "projectName": "WpHostEntidade",
-      "projectPath": "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WpHostEntidade\\WpHostEntidade.csproj",
+      "projectPath": "C:\\webpix\\WebPixHost\\WpHostEntidade\\WpHostEntidade.csproj",
       "packagesPath": "C:\\Users\\Matheus Ferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\WebPix Lucas\\WebPixHost\\WebPixHostContanier\\WpHostEntidade\\obj\\",
+      "outputPath": "C:\\webpix\\WebPixHost\\WpHostEntidade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
