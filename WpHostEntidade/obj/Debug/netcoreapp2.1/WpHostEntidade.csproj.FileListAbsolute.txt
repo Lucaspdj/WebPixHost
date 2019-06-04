@@ -1,0 +1,9 @@
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WpHostEntidade\bin\Debug\netcoreapp2.1\WpHostEntidade.deps.json
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WpHostEntidade\bin\Debug\netcoreapp2.1\WpHostEntidade.dll
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WpHostEntidade\bin\Debug\netcoreapp2.1\WpHostEntidade.pdb
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WpHostEntidade\obj\Debug\netcoreapp2.1\WpHostEntidade.csprojAssemblyReference.cache
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WpHostEntidade\obj\Debug\netcoreapp2.1\WpHostEntidade.csproj.CoreCompileInputs.cache
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WpHostEntidade\obj\Debug\netcoreapp2.1\WpHostEntidade.AssemblyInfoInputs.cache
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WpHostEntidade\obj\Debug\netcoreapp2.1\WpHostEntidade.AssemblyInfo.cs
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WpHostEntidade\obj\Debug\netcoreapp2.1\WpHostEntidade.dll
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WpHostEntidade\obj\Debug\netcoreapp2.1\WpHostEntidade.pdb

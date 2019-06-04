@@ -1,0 +1,14 @@
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\bin\Debug\netcoreapp2.1\WebPixHostContanier.deps.json
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\bin\Debug\netcoreapp2.1\WebPixHostContanier.runtimeconfig.json
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\bin\Debug\netcoreapp2.1\WebPixHostContanier.runtimeconfig.dev.json
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\bin\Debug\netcoreapp2.1\WebPixHostContanier.dll
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\bin\Debug\netcoreapp2.1\WebPixHostContanier.pdb
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\obj\Debug\netcoreapp2.1\WebPixHostContanier.csprojAssemblyReference.cache
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\obj\Debug\netcoreapp2.1\WebPixHostContanier.csproj.CoreCompileInputs.cache
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\obj\Debug\netcoreapp2.1\WebPixHostContanier.AssemblyInfoInputs.cache
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\obj\Debug\netcoreapp2.1\WebPixHostContanier.AssemblyInfo.cs
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\obj\Debug\netcoreapp2.1\WebPixHostContanier.dll
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\obj\Debug\netcoreapp2.1\WebPixHostContanier.pdb
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\bin\Debug\netcoreapp2.1\WpHostEntidade.dll
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\bin\Debug\netcoreapp2.1\WpHostEntidade.pdb
+C:\WebPix Lucas\WebPixHost\WebPixHostContanier\WebPixHostContanier\obj\Debug\netcoreapp2.1\WebPixHostContanier.csproj.CopyComplete
